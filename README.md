@@ -1,5 +1,5 @@
 # Minesweeper
-The objective is to create a static version of the Minesweeper game (not a playable version), using css flexbox.
+The objective is to create a static version of the Minesweeper game (not a playable version), using CSS flexbox.
 
 
 ## Authors
