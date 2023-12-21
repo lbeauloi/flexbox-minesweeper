@@ -10,7 +10,7 @@ The objective is to create a static version of the Minesweeper game (not a playa
 
 ## Screenshots
 
-![App Screenshot](../assets/Capture1515.PNG)
+![App Screenshot](./assets/Capture1515.PNG)
 
 
 ## Project Link 
